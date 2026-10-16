@@ -21,6 +21,12 @@ This repository contains SQL queries created to practice database management, da
 - Calculate totals and summarize business data.
 - Rank products and analyze customer and order information.
 
+  
+## Project Files
+
+- [SQL Queries](my_sql.sql) — View the SQL queries used in this project.
+
+
 ## Learning Outcomes
 Improved my understanding of SQL queries, data aggregation, joins, and analytical functions.
 
