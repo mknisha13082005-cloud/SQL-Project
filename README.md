@@ -1,4 +1,4 @@
-# SQL Project
+# E-commerce Database Management System 
 
 ## About the Project
 This repository contains SQL queries created to practice database management, data analysis, and problem-solving using SQL.
